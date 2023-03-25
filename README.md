@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenda-kethleen&label=Profile%20views&color=0e75b6&style=flat" alt="brenda-kethleen" /> </p>
 
 - 🌱 I’m currently learning **Python**
-
+- Atualmente  estou  cursando Engenharia de Software.
 - 📫 How to reach me **brendakethleen.clucas21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
